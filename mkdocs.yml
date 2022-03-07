@@ -1,37 +1,42 @@
 site_name: Gustavo Soares
-repo_url: https://github.com/GussSoares/GussSoares
-repo_name: GussSoares/GussSoares
-edit_uri: GussSoares/GussSoares
+site_author: Gustavo Soares
+site_url: https://GussSoares.github.io/about
+
+# Copyright
+copyright: |
+  &copy; Gustavo Soares
 
 plugins:
-  - git-revision-date
   - search
+  - git-revision-date
   - git-revision-date-localized
-  - blogging:
-      theme:
-        name: button
-        options: # Optional
-          # `true` if display the button as plain text
-          # `false` or not present if display as rectangle button
-          - plain_button: true
-          # Replacement for 'Continue Reading'
-          - label: Read
-      dirs:
-        - about
-      # features:
-      #   tags:
-      #     index_page: teste/tags.md
-      #     insert: bottom
-      time_format: '%d/%m/%Y'
-      # template: 'overrides/blog/blog-override.html'
+
+  # - blogging:
+  #     theme:
+  #       name: button
+  #       options: # Optional
+  #         # `true` if display the button as plain text
+  #         # `false` or not present if display as rectangle button
+  #         - plain_button: true
+  #         # Replacement for 'Continue Reading'
+  #         - label: Read
+  #     dirs:
+  #       - en
+  #       - pt_BR
+  #     # features:
+  #     #   tags:
+  #     #     index_page: teste/tags.md
+  #     #     insert: bottom
+  #     time_format: '%d/%m/%Y'
+  #     # template: 'overrides/blog/blog-override.html'
 
 # Configuration
 theme:
   name: material
   custom_dir: overrides
   icon:
-    logo: material/code-greater-than
-    repo: octicons/repo-24
+    logo: fontawesome/solid/user-tie
+    repo: fontawesome/brands/github
     note: fontawesome/solid/sticky-note
     abstract: fontawesome/solid/book
     info: fontawesome/solid/info-circle
@@ -44,26 +49,66 @@ theme:
     bug: fontawesome/solid/robot
     example: fontawesome/solid/flask
     quote: fontawesome/solid/quote-left
-  language: en
+  language: pt-BR
   palette:
     - scheme: default
-      primary: green
-      accent: grey
+      primary: teal
+      accent: amber
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: grey
-      accent: grey
+      primary: teal
+      accent: amber
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/lightbulb
         name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
   features:
     - content.code.annotate
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.top
     - navigation.sections
     - navigation.indexes
+
+repo_url: https://github.com/GussSoares/resume
+repo_name: GussSoares/resume
+edit_uri: ""
+
+extra:
+  social:
+    - icon: 'fontawesome/brands/github'
+      link: 'https://github.com/GussSoares'
+    - icon: 'fontawesome/brands/linkedin'
+      link: 'https://www.linkedin.com/in/gustavo-soares-3a22b1176/'
+    - icon: 'fontawesome/brands/dev'
+      link: https://dev.to/gusssoares
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Portuguese Brazilian
+      link: /pt_BR/
+      lang: pt-BR
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# navigation
+nav:
+- Languages:
+  - pt_BR:
+    - Sobre mim: pt_BR/index.md
+    - Curriculo: pt_BR/profile.md
+  - en:
+    - About me: en/index.md
+    - Resume: en/profile.md

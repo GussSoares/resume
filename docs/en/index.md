@@ -1,10 +1,12 @@
+# About me
+
 <a href="https://app.daily.dev/GussSoares">
   <img  align="right" src="https://api.daily.dev/devcards/a3d637ab65ee4410bd49f21c8fc210f3.png?r=1jh" width="300" alt="Gustavo Soares's Dev Card"/>
 </a>
 
 ## Hello guys! This is my profile 👋😎 
 
-My name is gustavo, I'm a Python Developer 🐍 and Web 🖥️ Developer and a beginner in Mobile Development📱. I'm graduated in Computer Science 🧑‍🎓 at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
+My name is Gustavo Soares, I'm a Python Developer 🐍 and Web 🖥️ Developer and a beginner in Mobile Development📱. I'm graduated in Computer Science 🧑‍🎓 at the State University of Ceará 🤓. I develop applications from backend to frontend and I'm always looking to learn more!
 
 ## Skills 🥇🏅
 
@@ -23,11 +25,6 @@ My name is gustavo, I'm a Python Developer 🐍 and Web 🖥️ Developer and a 
  <img height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
  <img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
  <img height="20" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
-
-<!--- [x] Learning Kotlin Android 📱
-- [ ] Learning React & React Native 🚀 -->
-
-<!-- Always following Rocketseat news 🚀🟣 -->
 
 ## Follow me 🙈
 
@@ -49,9 +46,8 @@ My name is gustavo, I'm a Python Developer 🐍 and Web 🖥️ Developer and a 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning CI/CD
 - 👯 I’m looking to collaborate on simple open source projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help Python beginners
 - 💬 Ask me about Python and Web Development
 - 📫 How to reach me: `gustavo.soares.cdc@gmail.com`
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-

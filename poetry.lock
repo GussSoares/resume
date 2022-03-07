@@ -152,6 +152,7 @@ optional = false
 python-versions = ">=3.6"
 
 [package.dependencies]
+babel = {version = ">=2.9.0", optional = true, markers = "extra == \"i18n\""}
 click = ">=3.3"
 ghp-import = ">=1.0"
 importlib-metadata = ">=3.10"
@@ -408,7 +409,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "6779f9a6d04d58a2bd82272b7b8c88e24ab28a9c7c343036e48ece83a326688a"
+content-hash = "5e47441b364e9c67b7aa1e752377e10c9fafdb7d730a4c36723a48624340f1cd"
 
 [metadata.files]
 atomicwrites = [
