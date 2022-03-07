@@ -33,7 +33,7 @@ plugins:
 # Configuration
 theme:
   name: material
-  custom_dir: overrides
+  theme_dir: overrides
   icon:
     logo: fontawesome/solid/user-tie
     repo: fontawesome/brands/github
@@ -87,10 +87,10 @@ extra:
       link: https://dev.to/gusssoares
   alternate:
     - name: English
-      link: /en/
+      link: /resume/en/
       lang: en
     - name: Portuguese Brazilian
-      link: /pt_BR/
+      link: /resume/pt_BR/
       lang: pt-BR
 
 markdown_extensions:

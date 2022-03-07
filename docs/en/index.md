@@ -43,10 +43,10 @@ My name is Gustavo Soares, I'm a Python Developer 🐍 and Web 🖥️ Developer
 
 ## More about me
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working on [Dell Lead](https://leadfortaleza.com.br/portal)
 - 🌱 I’m currently learning CI/CD
 - 👯 I’m looking to collaborate on simple open source projects
-- 🤔 I’m looking for help Python beginners
+- 🤔 I’m looking to help Python beginners
 - 💬 Ask me about Python and Web Development
 - 📫 How to reach me: `gustavo.soares.cdc@gmail.com`
 <!-- - 😄 Pronouns: ...
