@@ -1,0 +1,69 @@
+site_name: Gustavo Soares
+repo_url: https://github.com/GussSoares/GussSoares
+repo_name: GussSoares/GussSoares
+edit_uri: GussSoares/GussSoares
+
+plugins:
+  - git-revision-date
+  - search
+  - git-revision-date-localized
+  - blogging:
+      theme:
+        name: button
+        options: # Optional
+          # `true` if display the button as plain text
+          # `false` or not present if display as rectangle button
+          - plain_button: true
+          # Replacement for 'Continue Reading'
+          - label: Read
+      dirs:
+        - about
+      # features:
+      #   tags:
+      #     index_page: teste/tags.md
+      #     insert: bottom
+      time_format: '%d/%m/%Y'
+      # template: 'overrides/blog/blog-override.html'
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    logo: material/code-greater-than
+    repo: octicons/repo-24
+    note: fontawesome/solid/sticky-note
+    abstract: fontawesome/solid/book
+    info: fontawesome/solid/info-circle
+    tip: fontawesome/solid/bullhorn
+    success: fontawesome/solid/check
+    question: fontawesome/solid/question-circle
+    warning: fontawesome/solid/exclamation-triangle
+    failure: fontawesome/solid/bomb
+    danger: fontawesome/solid/skull
+    bug: fontawesome/solid/robot
+    example: fontawesome/solid/flask
+    quote: fontawesome/solid/quote-left
+  language: en
+  palette:
+    - scheme: default
+      primary: green
+      accent: grey
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: grey
+      accent: grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - content.code.annotate
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
