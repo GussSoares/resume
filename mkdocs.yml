@@ -89,7 +89,7 @@ extra:
     - name: English
       link: /resume/en/
       lang: en
-    - name: Portuguese Brazilian
+    - name: Brazilian Portuguese
       link: /resume/pt_BR/
       lang: pt-BR
 
