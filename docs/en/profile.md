@@ -43,7 +43,7 @@ Computer Science at the State University of Ceará 🧑‍🎓
     - Comunicação Arduino-Cliente-Servidor
     - Chat Websocket usando Fastapi -->
 
-## Projetos Pessoais
+## Personal Projects
 
 ### [:octicons-terminal-16: `triggercmd-cli`](https://pypi.org/project/triggercmd/){target=_blank}
 !!! note ""
