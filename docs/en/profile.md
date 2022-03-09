@@ -7,19 +7,19 @@ Computer Science at the State University of Ceará 🧑‍🎓
 ## Experiencies
 
 
-### 🧑‍🎓 📚 Laboratório de Redes e Segurança da Informação - LARCES - UECE
+### 🧑‍🎓 📚 Laboratório de Redes e Segurança da Informação - LARCES - UECE (Scholarship)
 !!! note ""
     Study of mathematical techniques and tools to improve research. Maintenance of servers and internet switch. Participation in the translation of papers
 
-### 📚 💻 Faculdade Evolução
+### 📚 💻 Faculdade Evolução (Trainee)
 !!! note ""
     Responsible for looking after and maintaining computer labs in addition to providing support to students, faculty and staff.
 
-### 🗺️ 🚘 RastroSystem (Estagiário à CLT)
+### 🗺️ 🚘 RastroSystem (Trainee at CLT)
 !!! note ""
     Responsible for taking care of tracking platform, chip management platform and freelance software product development
 
-### 🧑‍🎓 📚 Dell Lead
+### 🧑‍🎓 📚 Dell Lead (CLT)
 !!! note ""
     - Member of the Data Science DSB project, working as a FullStack Developer (Python + Angular)
     - Member of the Virtual Agent project - Stuart - acting as Python Developer
@@ -74,9 +74,22 @@ Computer Science at the State University of Ceará 🧑‍🎓
     `triggercmd` is a CLI client for the TRIGGERcmd cloud service. Feel free to submit a suggestion, submit our pull request. It will be a pleasure to receive you ✨ 🚀
 
 
+### [:material-language-python: `SmartSchedule`](https://github.com/GussSoares/SmartSchedule){target=_blank}
+!!! note ""
+    `SmartEvent` Web scale management System aimed at volunteer work. Developed to meet the needs of coordinators of a group of altar boys. It has push notifications, presence confirmation via geolocation and video calls via Google Meet ✨ 🚀
+
+![GitHub](https://img.shields.io/github/license/GussSoares/SmartEvent.svg)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GussSoares/SmartEvent.svg)](https://github.com/GussSoares/SmartEvent/pulse)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GussSoares/SmartEvent.svg)](https://github.com/GussSoares/SmartEvent/commit/main)
+
+
 ### [:material-language-python: `chat-websocket-backend`](https://github.com/GussSoares/chat-websocket-backend){target=_blank}
 !!! note ""
     An example of websocket chat using fastapi ✨
+
+![GitHub](https://img.shields.io/github/license/GussSoares/chat-websocket-backend.svg)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GussSoares/chat-websocket-backend.svg)](https://github.com/GussSoares/chat-websocket-backend/pulse)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GussSoares/chat-websocket-backend.svg)](https://github.com/GussSoares/chat-websocket-backend/commit/main)
 
 
 ### [:material-react: `OLX Clone App Using React Native`]()
@@ -89,7 +102,7 @@ Computer Science at the State University of Ceará 🧑‍🎓
     This project has no code versioning 😔
 
 
-## Skills 🏅
+## 🏅 Skills
 
 ### Programming Languages
 
@@ -101,13 +114,13 @@ Computer Science at the State University of Ceará 🧑‍🎓
 
 ### Technologies
 
-#### Frontend ✨
+#### ✨ Frontend
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### Backend 👨‍💻
+#### 👨‍💻 Backend
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -119,3 +132,8 @@ Computer Science at the State University of Ceará 🧑‍🎓
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+## :material-translate: Languages 
+- Portuguese
+- English Basic~Intermediate
