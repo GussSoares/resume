@@ -132,7 +132,8 @@ Graduação em Ciência da Computação pela Universidade Estadual do Ceará �
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)
+![Gitlab CI](https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## :material-translate: Idiomas 
 - Português
