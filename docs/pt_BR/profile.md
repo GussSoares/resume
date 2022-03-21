@@ -48,25 +48,25 @@ Graduação em Ciência da Computação pela Universidade Estadual do Ceará �
 !!! note ""
     `triggercmd` é um cliente CLI para o serviço de nuvem TRIGGERcmd. Sinta-se à vontade para enviar uma sugestão, emita nosso pull request. Será um prazer recebê-lo ✨ 🚀
 
-[![CodeQL](https://github.com/GussSoares/triggercmd-cli/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/GussSoares/triggercmd-cli/actions/workflows/codeql-analysis.yml)
-[![Publish package](https://github.com/GussSoares/triggercmd-cli/actions/workflows/publish-package-on-release.yaml/badge.svg)](https://github.com/GussSoares/triggercmd-cli/actions/workflows/publish-package-on-release.yaml)
+![CodeQL](https://github.com/GussSoares/triggercmd-cli/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)
+![Publish package](https://github.com/GussSoares/triggercmd-cli/actions/workflows/publish-package-on-release.yaml/badge.svg)
 ![GitHub](https://img.shields.io/github/license/GussSoares/triggercmd-cli.svg)
-[![PyPI](https://img.shields.io/pypi/v/triggercmd.svg)](http://pypi.org/project/triggercmd/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GussSoares/triggercmd-cli.svg)](https://github.com/GussSoares/triggercmd/pulse)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GussSoares/triggercmd-cli.svg)](https://github.com/GussSoares/triggercmd-cli/commit/main)
-[![Downloads](https://pepy.tech/badge/triggercmd)](https://pepy.tech/project/triggercmd)
+![PyPI](https://img.shields.io/pypi/v/triggercmd.svg)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GussSoares/triggercmd-cli.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/GussSoares/triggercmd-cli.svg)
+![Downloads](https://img.shields.io/pypi/dm/triggercmd)
 
 
 ### [:octicons-terminal-16: `my-termo`](https://pypi.org/project/my-termo/){target=_blank}
 !!! note ""
     `my-termo` é um termo simples no estilo de linha de comando 🗔✨
 
-[![Publish package](https://github.com/GussSoares/my-termo/actions/workflows/publish-package-on-release.yaml/badge.svg)](https://github.com/GussSoares/my-termo/actions/workflows/publish-package-on-release.yaml)
+![Publish package](https://github.com/GussSoares/my-termo/actions/workflows/publish-package-on-release.yaml/badge.svg)
 ![GitHub](https://img.shields.io/github/license/GussSoares/my-termo.svg)
-[![PyPI](https://img.shields.io/pypi/v/my-termo.svg)](http://pypi.org/project/my-termo/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GussSoares/my-termo.svg)](https://github.com/GussSoares/my-termo/pulse)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GussSoares/my-termo.svg)](https://github.com/GussSoares/my-termo/commit/main)
-[![Downloads](https://pepy.tech/badge/my-termo)](https://pepy.tech/project/my-termo)
+![PyPI](https://img.shields.io/pypi/v/my-termo.svg)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GussSoares/my-termo.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/GussSoares/my-termo.svg)
+![Downloads](https://img.shields.io/pypi/dm/my-termo)
 
 ### [:material-vuetify: `triggercmd-front`](https://github.com/GussSoares/triggercmd-front){target=_blank}
 !!! note ""

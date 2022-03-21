@@ -25,6 +25,8 @@ Meu nome é Gustavo Soares, sou Desenvolvedor Python 🐍 e Desenvolvedor Web �
  <img height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
  <img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
  <img height="20" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+ <img height="20" src="https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ <img height="20" src="https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
 ## Siga-me 🙈
 
