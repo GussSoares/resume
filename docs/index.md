@@ -46,7 +46,7 @@ Meu nome é Gustavo Soares, sou Desenvolvedor Python 🐍 e Desenvolvedor Web �
 ## Mais sobre mim
 
 - 🔭 Sou desenvolvedor Backend em [Seplag-CE](https://www.seplag.ce.gov.br/)
-- 🌱 Sempre aprendendo CI/CD
+- 🌱 Me aventurando na AWS
 - 👯 Estou procurando colaborar em projetos simples de código aberto
 - 🤔 Estou procurando ajudar iniciantes em python
 - 💬 Pergunte-me sobre Python e Desenvolvimento Web

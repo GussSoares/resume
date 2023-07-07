@@ -45,8 +45,8 @@ My name is Gustavo Soares, I'm a Python Developer 🐍 and Web 🖥️ Developer
 
 ## More about me
 
-- 🔭 I’m currently working on [Dell Lead](https://leadfortaleza.com.br/portal)
-- 🌱 I’m currently learning CI/CD
+- 🔭 I'm Backend developer at [Seplag-CE](https://www.seplag.ce.gov.br/)
+- 🌱 Adventuring about AWS
 - 👯 I’m looking to collaborate on simple open source projects
 - 🤔 I’m looking to help Python beginners
 - 💬 Ask me about Python and Web Development
