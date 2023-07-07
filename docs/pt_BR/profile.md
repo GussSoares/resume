@@ -7,17 +7,10 @@ Graduação em Ciência da Computação pela Universidade Estadual do Ceará �
 ## Experiências
 
 
-### 🧑‍🎓 📚 Laboratório de Redes e Segurança da Informação - LARCES - UECE (Bolsista)
+### 👩‍💻 📊 Seplag-CE (CLT)
 !!! note ""
-    Estudo de técnicas e ferramentas matemáticas para aprimoramento de pesquisas. Manutenção de servidores e switch de internet. Participação na tradução de papers
-
-### 📚 💻 Faculdade Evolução (Estagiário)
-!!! note ""
-    Responsável por cuidar e manter laboratórios de informática além de prestar suporte para alunos, professores e funcionários.
-
-### 🗺️ 🚘 RastroSystem (Estagiário à CLT)
-!!! note ""
-    Responsável por cuidar da plataforma de rastreamento, plataforma de gestão de chips e desenvolvimento de produtos de software free-lancer
+    - Desenvolvedor Backend do projeto SUITE, desenvolvendo em Python com Django Rest Framework
+    - Quando necessário operando como DevOps AWS e aprendendo constantemente
 
 ### 🧑‍🎓 📚 Dell Lead (CLT)
 !!! note ""
@@ -25,10 +18,24 @@ Graduação em Ciência da Computação pela Universidade Estadual do Ceará �
     - Membro do projeto do Agente Virtual - Stuart - atuando como Desenvolvedor Python; 
     - Mentor de Python para Web no projeto Dell Academy;
 
+### 🗺️ 🚘 RastroSystem (Estagiário à CLT)
+!!! note ""
+    Responsável por cuidar da plataforma de rastreamento, plataforma de gestão de chips e desenvolvimento de produtos de software free-lancer
+
+### 📚 💻 Faculdade Evolução (Estagiário)
+!!! note ""
+    Responsável por cuidar e manter laboratórios de informática além de prestar suporte para alunos, professores e funcionários.
+
+### 🧑‍🎓 📚 Laboratório de Redes e Segurança da Informação - LARCES - UECE (Bolsista)
+!!! note ""
+    Estudo de técnicas e ferramentas matemáticas para aprimoramento de pesquisas. Manutenção de servidores e switch de internet. Participação na tradução de papers
+
 
 ## Projetos
 
 !!! info "Projetos em Empresas"
+    - Sistema Único Integrado de Tramitação Eletrônica
+    - Mordomo para projeto de Ciência de Dados
     - Plataforma de Rastreamento
     - Plataforma de Gestão de Chips
     - Sistema de Credenciamento de Eventos

@@ -45,8 +45,8 @@ Meu nome é Gustavo Soares, sou Desenvolvedor Python 🐍 e Desenvolvedor Web �
 
 ## Mais sobre mim
 
-- 🔭 Atualmente estou trabalhando em [Dell Lead](https://leadfortaleza.com.br/portal)
-- 🌱 Atualmente estou aprendendo CI/CD
+- 🔭 Sou desenvolvedor Backend em [Seplag-CE](https://www.seplag.ce.gov.br/)
+- 🌱 Sempre aprendendo CI/CD
 - 👯 Estou procurando colaborar em projetos simples de código aberto
 - 🤔 Estou procurando ajudar iniciantes em python
 - 💬 Pergunte-me sobre Python e Desenvolvimento Web

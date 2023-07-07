@@ -6,18 +6,10 @@ Computer Science at the State University of Ceará 🧑‍🎓
 
 ## Experiencies
 
-
-### 🧑‍🎓 📚 Laboratório de Redes e Segurança da Informação - LARCES - UECE (Scholarship)
+### 👩‍💻 📊 Seplag-CE (CLT)
 !!! note ""
-    Study of mathematical techniques and tools to improve research. Maintenance of servers and internet switch. Participation in the translation of papers
-
-### 📚 💻 Faculdade Evolução (Trainee)
-!!! note ""
-    Responsible for looking after and maintaining computer labs in addition to providing support to students, faculty and staff.
-
-### 🗺️ 🚘 RastroSystem (Trainee at CLT)
-!!! note ""
-    Responsible for taking care of tracking platform, chip management platform and freelance software product development
+    - Backend Developer at SUITE project, working with Python and Django REST Framework
+    - When needed opering as AWS Devops and learning more about this.
 
 ### 🧑‍🎓 📚 Dell Lead (CLT)
 !!! note ""
@@ -25,7 +17,17 @@ Computer Science at the State University of Ceará 🧑‍🎓
     - Member of the Virtual Agent project - Stuart - acting as Python Developer
     - Python for the Web mentor in the Dell Academy project
 
+### 🗺️ 🚘 RastroSystem (Trainee at CLT)
+!!! note ""
+    Responsible for taking care of tracking platform, chip management platform and freelance software product development
 
+### 📚 💻 Faculdade Evolução (Trainee)
+!!! note ""
+    Responsible for looking after and maintaining computer labs in addition to providing support to students, faculty and staff.
+
+### 🧑‍🎓 📚 Laboratório de Redes e Segurança da Informação - LARCES - UECE (Scholarship)
+!!! note ""
+    Study of mathematical techniques and tools to improve research. Maintenance of servers and internet switch. Participation in the translation of papers
 
 ## Projects
 
